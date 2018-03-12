@@ -1,0 +1,17 @@
+### OS Junk ###
+.DS_Store
+
+### IntelliJ ###
+.idea
+out
+output/
+*.iml
+
+### Maven ###
+target/
+
+### Class files java ###
+*.class
+
+### jars ###
+*.jar
